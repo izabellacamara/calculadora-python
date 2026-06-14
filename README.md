@@ -1,9 +1,9 @@
 # calculadora-python
-Meu primeiro projeto em python.
+Meu primeiro projeto em Python.
 Funcionalidades: 
-- soma
-- subtração 
-- multiplicação 
-- divisão
+- Soma
+- Subtração 
+- Multiplicação 
+- Divisão
 
 Desenvolvido durante meus estudos de Análise e Desenvolvimento de Sistemas.
